@@ -1,0 +1,26 @@
+{
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "particle": "squissy:block/slime_trail_green",
+    "t": "squissy:block/slime_trail_green"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0.02,
+        0
+      ],
+      "to": [
+        16,
+        0.5,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#t"
+        }
+      }
+    }
+  ]
+}

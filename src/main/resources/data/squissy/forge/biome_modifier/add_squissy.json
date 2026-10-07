@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#squissy:has_squissy",
+  "spawners": {
+    "type": "squissy:squissy",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

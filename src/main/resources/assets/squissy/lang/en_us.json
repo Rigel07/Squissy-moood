@@ -1,0 +1,14 @@
+{
+  "itemGroup.squissy": "Squissy",
+  "entity.squissy.squissy": "Squissy",
+  "item.squissy.magic_slime": "Magic Slime",
+  "item.squissy.slime_boots": "Slime Boots",
+  "item.squissy.squissy_spawn_egg": "Squissy Spawn Egg",
+  "block.squissy.slime_trail": "Slime Trail",
+  "container.squissy.belly": "Squissy's Belly",
+  "tooltip.squissy.slime_boots": "They leave a slime trail and let you slide faster on it.",
+  "message.squissy.follow": "Squissy follows you.",
+  "message.squissy.stay": "Squissy stays put.",
+  "message.squissy.wander": "Squissy wanders around this area.",
+  "message.squissy.belly_full": "Squissy's belly is full!"
+}

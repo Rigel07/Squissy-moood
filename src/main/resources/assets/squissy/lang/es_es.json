@@ -1,0 +1,14 @@
+{
+  "itemGroup.squissy": "Squissy",
+  "entity.squissy.squissy": "Squissy",
+  "item.squissy.magic_slime": "Babas mágicas",
+  "item.squissy.slime_boots": "Botas babosas",
+  "item.squissy.squissy_spawn_egg": "Huevo generador de Squissy",
+  "block.squissy.slime_trail": "Rastro de baba",
+  "container.squissy.belly": "Barriguita de Squissy",
+  "tooltip.squissy.slime_boots": "Dejan un rastro de baba y te hacen resbalar sobre él, más rápido.",
+  "message.squissy.follow": "Squissy te sigue.",
+  "message.squissy.stay": "Squissy se queda quieto.",
+  "message.squissy.wander": "Squissy deambula por esta zona.",
+  "message.squissy.belly_full": "¡La barriguita de Squissy está llena!"
+}

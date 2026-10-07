@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "squissy:magic_slime"
+    }
+  },
+  "result": {
+    "item": "squissy:slime_boots",
+    "count": 1
+  }
+}
